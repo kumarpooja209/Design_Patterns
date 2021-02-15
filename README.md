@@ -68,3 +68,6 @@ State: The state pattern is a behavioral software design pattern that implements
 
 Template Method: n software engineering, the template method pattern is a behavioral design pattern that defines the program skeleton of an algorithm in an operation, deferring some steps to subclasses. It lets one redefine certain steps of an algorithm without changing the algorithm's structure.
 
+
+
+
